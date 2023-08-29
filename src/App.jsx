@@ -1,9 +1,19 @@
 import './App.css'
+import ButtonLogin from './components/button/ButtonLogin';
 
 function App() {
+  const handleClick = () => {
+    alert('¡Has iniciado sesión!');
+
+
+    
+  };
 
   return (
-    <h1>Hola chicas!</h1>
+    <>
+      <h1>Hola chicas!</h1>
+      <ButtonLogin  text="Login" onClick={handleClick}/>
+    </>
   )
 }
 
