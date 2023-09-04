@@ -1,9 +1,13 @@
 import './App.css'
+import Footer from './components/atoms/Footer'
 
 function App() {
 
   return (
-    <h1>Hola chicas!</h1>
+    <>
+      <Footer></Footer>
+      
+    </>
   )
 }
 
