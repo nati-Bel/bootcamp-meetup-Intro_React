@@ -1,10 +1,19 @@
 import './App.css'
+import Button from './components/atoms/Button'
+
 
 function App() {
 
   return (
-    <h1>Hola chicas!</h1>
+    <>
+    <div>
+
+    <Button button_content={'Todos'}></Button>
+
+    </div>
+    
+    </>
   )
 }
 
-export default App
+export default App;

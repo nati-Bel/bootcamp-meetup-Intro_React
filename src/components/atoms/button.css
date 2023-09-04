@@ -1,0 +1,13 @@
+button {
+    background: #8B5A2B;
+    color: #E4DCD5;
+    padding: 12px 26px;
+    font-weight: 500;
+    border-radius: 48px;
+    cursor: pointer;
+    font-family: Poppins;
+    line-height: normal;
+    letter-spacing: 0.8px;
+    font-size: 16px;
+    font-style: normal;
+}
