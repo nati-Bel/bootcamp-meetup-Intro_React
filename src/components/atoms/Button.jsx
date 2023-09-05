@@ -1,6 +1,7 @@
 import './button.css'
 
 
+// eslint-disable-next-line react/prop-types
 function Button({button_content}){
     return(
         <>
