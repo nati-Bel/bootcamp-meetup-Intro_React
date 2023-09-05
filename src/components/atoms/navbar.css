@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.hamburguer{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    color: #8B5A2A;
+}
+
+.user{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: #8B5A2A;
+}

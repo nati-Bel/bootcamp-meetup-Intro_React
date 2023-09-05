@@ -1,0 +1,55 @@
+.aC-cardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    margin-left: 20px;
+    margin-right: 20px; 
+    border-radius: 25px;
+    width: 33%;
+    border: 2px solid #000;
+    
+}
+
+.aC-cardContainer h3{
+    padding-bottom: 1rem;
+    font-family: Urbanist;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 900;
+    background-color: #e7e0da;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    border-radius: 20px 20px 0 0;
+}
+
+.aC-img {
+    width: 100%;
+    object-fit: cover;
+   
+    
+}
+
+.ac-cardText {
+    text-align: center;
+  
+    text-align: center;
+    width: 100%;
+    
+    color: #000;
+    font-family: Urbanist;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.description{
+    background: #fff;
+    padding: 60px 0;
+}
+
+ .ac-ctss {
+    display: flex;
+    flex-direction: row;
+} 
+

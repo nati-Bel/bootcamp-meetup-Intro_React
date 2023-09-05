@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto+Mono:wght@700&display=swap');
+
+.footer {
+
+height: 60px;
+width:100%;
+background-color: #f4f4f4;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 62px;
+
+}
+
+.f_icon_text {
+
+font-family: Poppins;
+font-size: 15px;
+font-weight: 250;
+line-height: 15px;
+letter-spacing: 0.05em;
+text-align: center;
+margin: 0;
+
+}
+
+.f_icon {
+    width: 35px;
+}
+
+.f_menu_item {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding:2px 5px;
+}
+
+.f_menu_item:hover {
+    background-color: #e7e0da;
+    border-radius: 5px;  
+    
+}
+
+
