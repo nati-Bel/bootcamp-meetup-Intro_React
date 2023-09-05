@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import './buttonLogin.css'
 
 function ButtonLogin({ text, onClick }) {
   return (
