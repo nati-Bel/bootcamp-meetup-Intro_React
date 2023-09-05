@@ -10,9 +10,8 @@ function App() {
     <h1>Hola chicas!</h1>
 
    <div className='ac-ctss'>
-    <AnimalCard image={Gatete} title="Cleo"  description="Es una gata juguetona y cariñosa, le encanta que le rasquen la barriga." />
-    <AnimalCard image={Gatete} title="Cleo"  description="Es una gata juguetona y cariñosa, le encanta que le rasquen la barriga." /> 
-    <AnimalCard image={Gatete} title="Cleo"  description="Es una gata juguetona y cariñosa, le encanta que le rasquen la barriga." />
+    
+    
     </div>
     </>
   )

@@ -7,7 +7,7 @@ function AnimalCard(props) {
         <img class='aC-img'src={props.image} alt={props.title} />
         <div className="ac-cardText">
           <h3>{props.title}</h3>
-          <p>{props.description}</p>
+          <p className='description'>{props.description}</p>
         </div>
       </div>
     );
