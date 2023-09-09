@@ -1,14 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto+Mono:wght@700&display=swap');
 
 .footer {
 
 height: 60px;
 width:100%;
+bottom:0;
+position:fixed;
 background-color: #f4f4f4;
 display: flex;
 align-items: center;
 justify-content: center;
 gap: 62px;
+padding:5px;
 
 }
 
@@ -37,7 +39,7 @@ margin: 0;
 }
 
 .f_menu_item:hover {
-    background-color: #e7e0da;
+    background-color:#f4f4f4;
     border-radius: 5px;  
     
 }

@@ -1,6 +1,6 @@
 button {
-    background: #8B5A2B;
-    color: #E4DCD5;
+    background-color: #e7e0da;
+    color: #8B5A2B;
     padding: 12px 26px;
     font-weight: 500;
     border-radius: 48px;
@@ -10,4 +10,10 @@ button {
     letter-spacing: 0.8px;
     font-size: 16px;
     font-style: normal;
+    border-style: hidden;
+}
+
+button:focus {
+    background: #8B5A2B;
+    color: #E4DCD5;
 }

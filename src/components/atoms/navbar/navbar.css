@@ -1,7 +1,9 @@
 .navbar{
     display: flex;
     justify-content: space-between;
-    background-color: white;
+    background-color: #F4F4F4;
+    width:100%;
+    padding:5px;
 }
 
 .hamburguer{

@@ -1,7 +1,7 @@
 import './footer.css';
-import f_home from '../../assets/images/home.png';
-import f_like from "../../assets/images/f_like.png";
-import f_chat from "../../assets/images/chat.png";
+import f_home from "../../../assets/images/home.png";
+import f_like from "../../../assets/images/f_like.png";
+import f_chat from "../../../assets/images/chat.png";
 
 
 const Footer = () => {

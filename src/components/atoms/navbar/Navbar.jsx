@@ -1,4 +1,3 @@
-import React from 'react';
 import './navbar.css';
 import { VscMenu } from 'react-icons/vsc';
 import { VscAccount } from 'react-icons/vsc';

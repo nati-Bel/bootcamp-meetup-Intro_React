@@ -1,4 +1,6 @@
 import './App.css'
+import Home from "./views/home/Home";
+
 
 
 
@@ -6,6 +8,7 @@ import './App.css'
 function App() {
   return( 
   <>
+    <Home></Home>
   </>
   )
 }
