@@ -1,5 +1,7 @@
 import './App.css'
 import Home from "./views/home/Home";
+import  Router  from "./config/Router";
+
 
 
 
@@ -8,7 +10,7 @@ import Home from "./views/home/Home";
 function App() {
   return( 
   <>
-    <Home></Home>
+    <Router></Router>
   </>
   )
 }
