@@ -6,7 +6,7 @@ import Photo from "../../components/atoms/photo/Photo";
 import cat1 from "../../assets/images/cat1.jpg";
 import dog1 from "../../assets/images/dog1.jpg";
 import ButtonBar from '../../components/molecules/buttonBar/ButtonBar';
-import TodosOutlet from '../outlets/TodosOutlet';
+import { Outlet } from 'react-router-dom';
 
 
 
@@ -25,7 +25,7 @@ const Home = () => {
 
     <h2 className="tit1">Adoptar una huellita</h2>
     <ButtonBar></ButtonBar>
-    <TodosOutlet></TodosOutlet>
+    <Outlet/>
     <Footer></Footer>
     </>
   )
