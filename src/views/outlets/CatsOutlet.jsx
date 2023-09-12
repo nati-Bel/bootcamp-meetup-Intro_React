@@ -8,7 +8,7 @@ import cat5 from "../../assets/images/cat5.jpg";
 import cat6 from "../../assets/images/cat6.jpg";
 
 
-function GatosOutlet() {
+function CatsOutlet() {
   return (
     <>
       <div className="containerPhotos">
@@ -24,4 +24,4 @@ function GatosOutlet() {
   );
 }
 
-export default GatosOutlet;
+export default CatsOutlet;
