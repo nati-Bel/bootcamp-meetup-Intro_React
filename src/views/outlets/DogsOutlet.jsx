@@ -9,7 +9,7 @@ import dog6 from "../../assets/images/dog6.jpg";
 import dog7 from "../../assets/images/dog7.jpg";
 
 
-function PerrosOutlet() {
+function DogsOutlet() {
   return (
     <>
       <div className="containerPhotos">
@@ -27,4 +27,4 @@ function PerrosOutlet() {
   );
 }
 
-export default PerrosOutlet;
+export default DogsOutlet;

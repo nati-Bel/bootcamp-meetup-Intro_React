@@ -10,7 +10,7 @@ import cat4 from "../../assets/images/cat4.jpg";
 import dog4 from "../../assets/images/dog4.jpg";
 
 
-function TodosOutlet () {
+function AllOutlet () {
     return (
       <>
         <div className="containerPhotos">
@@ -28,4 +28,4 @@ function TodosOutlet () {
     );
 }
 
-export default TodosOutlet
+export default AllOutlet;
