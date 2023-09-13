@@ -1,10 +1,17 @@
 import './App.css'
+import  Router  from "./config/Router";
+
+
+
+
+
 
 function App() {
-
-  return (
-    <h1>Hola chicas!</h1>
+  return( 
+  <>
+    <Router></Router>
+  </>
   )
 }
 
-export default App
+export default App;
